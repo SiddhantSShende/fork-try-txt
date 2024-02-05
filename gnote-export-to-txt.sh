@@ -11,6 +11,7 @@ _dest="$HOME/.local/share/gnote/"
 #_focus=$_dest$_file
  
 echo "everything went ok."
+echo"hello world"
 echo
 echo " Path Test......... "  
 echo ...directory:
